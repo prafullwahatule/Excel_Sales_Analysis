@@ -77,22 +77,19 @@ Sales_Analysis/
 ---
 
 ## 🖼️ Dashboard Preview
-
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 234124" src="https://github.com/user-attachments/assets/39e6565f-19d0-4417-9d1b-31286bcab138" />
-<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/53cbb7ad-e805-475e-86ff-43e7e5b69a6b" />
 <img width="1690" height="872" alt="Screenshot 2025-10-09 234155" src="https://github.com/user-attachments/assets/78afd8cc-bbae-4273-bce6-6f9927dbb2bb" />
-
 
 ##🚀 How to Use
 
 Clone this repo:
-
+```bash
 git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 
 1. Open the Excel file in the 4_Visuals/ folder
 
 2. Interact with slicers and charts to explore insights
-
+```
 ## 🎯 Key Insights (Sample)
 ---
 - Total Sales: ₹15,84,466
