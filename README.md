@@ -80,16 +80,15 @@ Sales_Analysis/
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 234124" src="https://github.com/user-attachments/assets/39e6565f-19d0-4417-9d1b-31286bcab138" />
 <img width="1690" height="872" alt="Screenshot 2025-10-09 234155" src="https://github.com/user-attachments/assets/78afd8cc-bbae-4273-bce6-6f9927dbb2bb" />
 
-##🚀 How to Use
-
+## 🚀 How to Use
 Clone this repo:
 ```bash
 git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
-
+```
 1. Open the Excel file in the 4_Visuals/ folder
 
 2. Interact with slicers and charts to explore insights
-```
+
 ## 🎯 Key Insights (Sample)
 ---
 - Total Sales: ₹15,84,466
@@ -105,23 +104,23 @@ git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 
 ## 🛠️ Tools Used
 ---
--- Microsoft Excel → Power Query, Pivot Tables, Charts
+- Microsoft Excel → Power Query, Pivot Tables, Charts
 
--- Conditional Formatting → Top/Bottom highlighting
+- Conditional Formatting → Top/Bottom highlighting
 
--- Map Chart → State-wise sales visualization
+- Map Chart → State-wise sales visualization
 ---
 
 ## 📌 Future Improvements
+---
+1. Automate dashboard refresh with macros
 
-Automate dashboard refresh with macros
+2. Connect to a live database (SQL/Power BI)
 
-Connect to a live database (SQL/Power BI)
+3. Add forecasting models
+---
 
-Add forecasting models
-
-👤 Author
-
+## 👤 Author
 Prafull Wahatule
 📧 prafullwahatule@gmail.com
 🔗 https://github.com/prafullwahatule
