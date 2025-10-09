@@ -66,7 +66,7 @@ Sales_Analysis/
 
 
 ## 📈 Dashboard Features
-
+---
 - Clean & professional UI design with slicers and charts
 - KPIs at a glance (cards for Total Sales, Avg Sales, etc.)
 - Time-series trend chart for daily/monthly analysis
@@ -74,13 +74,13 @@ Sales_Analysis/
 - Bar & Pie charts for Sales Rep, Item, and Commission
 - Top vs Bottom analysis with conditional formatting
 - Insights box with key findings
-
+---
 
 ## 🖼️ Dashboard Preview
 
-<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/bba4b05d-df4b-49b0-9570-4f15ee1bf75e" />
-
+<img width="1920" height="1080" alt="Screenshot 2025-10-09 234124" src="https://github.com/user-attachments/assets/39e6565f-19d0-4417-9d1b-31286bcab138" />
 <img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/53cbb7ad-e805-475e-86ff-43e7e5b69a6b" />
+<img width="1690" height="872" alt="Screenshot 2025-10-09 234155" src="https://github.com/user-attachments/assets/78afd8cc-bbae-4273-bce6-6f9927dbb2bb" />
 
 
 ##🚀 How to Use
