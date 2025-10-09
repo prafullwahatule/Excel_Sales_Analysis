@@ -1,9 +1,9 @@
-📊 Excel Sales Analysis
+ # 📊 Excel Sales Analysis
 
 An interactive Excel Sales Dashboard project built to analyze 10,000+ sales transactions.
 This project demonstrates data cleaning, transformation, KPI calculation, pivot tables, and dashboard visualization using Microsoft Excel.
 
-📂 Project Structure
+## 📂 Project Structure
 Sales_Analysis/
  ├─ 1_Raw_Data/        # Original dataset
  ├─ 2_Cleaned_Data/    # Processed & cleaned dataset
@@ -11,7 +11,7 @@ Sales_Analysis/
  ├─ 4_Visuals/         # Dashboard charts & visuals
  └─ 5_Reports/         # Final report & export files
 
-🛠️ Steps Performed
+## 🛠️ Steps Performed
 🔹 Data Preparation (Power Query)
 
 Loaded raw dataset into Excel
@@ -32,7 +32,7 @@ Total Sales = Quantity × Price
 
 Earned Commission = Total Sales × Commission
 
-🔹 KPI Calculations
+## 🔹 KPI Calculations
 Sr.No	KPI	Formula / Logic	Use
 1	Total Sales	SUM(Total Sales)	Overall revenue
 2	Total Quantity Sold	SUM(Quantity)	Volume of sales
@@ -44,7 +44,8 @@ Sr.No	KPI	Formula / Logic	Use
 8	Most Selling Item	Pivot (Item, Quantity, Sort Desc)	Demand analysis
 9	Top vs Bottom Performers	Pivot + Conditional Formatting	Highlights extremes
 10	Commission Efficiency	(Earned Commission ÷ Total Sales)	Efficiency comparison
-🔹 Pivot Table Analysis
+
+## 🔹 Pivot Table Analysis
 
 Sales by Item → Compare sales & quantity per item
 
@@ -62,7 +63,7 @@ Top vs Bottom Performers → Highlights best & worst
 
 Commission Efficiency → Efficiency % across sales reps
 
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 Clean & professional UI design with slicers and charts
 
@@ -78,11 +79,11 @@ Top vs Bottom analysis with conditional formatting
 
 Insights box with key findings
 
-🖼️ Dashboard Preview
+## 🖼️ Dashboard Preview
 
 (Add screenshot here → e.g., your dashboard PNG)
 
-🚀 How to Use
+##🚀 How to Use
 
 Clone this repo:
 
@@ -93,7 +94,7 @@ Open the Excel file in the 4_Visuals/ folder
 
 Interact with slicers and charts to explore insights
 
-🎯 Key Insights (Sample)
+## 🎯 Key Insights (Sample)
 
 Total Sales: ₹15,84,466
 
@@ -105,7 +106,7 @@ Most Selling Item: White Board
 
 Highest Commission Efficiency: Bob (7.69%)
 
-🛠️ Tools Used
+## 🛠️ Tools Used
 
 Microsoft Excel → Power Query, Pivot Tables, Charts
 
@@ -113,7 +114,7 @@ Conditional Formatting → Top/Bottom highlighting
 
 Map Chart → State-wise sales visualization
 
-📌 Future Improvements
+## 📌 Future Improvements
 
 Automate dashboard refresh with macros
 
@@ -124,5 +125,5 @@ Add forecasting models
 👤 Author
 
 Prafull Wahatule
-📧 [Your Email]
-🔗 GitHub Profile
+📧 prafullwahatule@gmail.com
+🔗 https://github.com/prafullwahatule
