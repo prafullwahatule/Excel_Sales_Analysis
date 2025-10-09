@@ -4,33 +4,37 @@ An interactive Excel Sales Dashboard project built to analyze 10,000+ sales tran
 This project demonstrates data cleaning, transformation, KPI calculation, pivot tables, and dashboard visualization using Microsoft Excel.
 
 ## 📂 Project Structure
+```
 Sales_Analysis/
  ├─ 1_Raw_Data/        # Original dataset
  ├─ 2_Cleaned_Data/    # Processed & cleaned dataset
  ├─ 3_Analysis/        # KPI calculations & Pivot Tables
  ├─ 4_Visuals/         # Dashboard charts & visuals
  └─ 5_Reports/         # Final report & export files
+```
 
 ## 🛠️ Steps Performed
 🔹 Data Preparation (Power Query)
 
-Loaded raw dataset into Excel
+---
+- Loaded raw dataset into Excel
 
-Applied transformations:
+- Applied transformations:
 
-Promoted headers
+- Promoted headers
 
-Changed data types
+- Changed data types
 
-Removed errors, blanks & duplicates
+- Removed errors, blanks & duplicates
 
-Added Sales_ID column (SLS-1, SLS-2, ...)
+- Added Sales_ID column (SLS-1, SLS-2, ...)
 
-Created calculated columns:
+- Created calculated columns:
 
-Total Sales = Quantity × Price
+- Total Sales = Quantity × Price
 
 Earned Commission = Total Sales × Commission
+---
 
 ## 🔹 KPI Calculations
 Sr.No	KPI	Formula / Logic	Use
