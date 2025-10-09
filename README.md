@@ -14,9 +14,8 @@ Sales_Analysis/
 ```
 
 ## 🛠️ Steps Performed
-🔹 Data Preparation (Power Query)
-
 ---
+🔹 Data Preparation (Power Query)
 - Loaded raw dataset into Excel
 
 - Applied transformations:
@@ -32,22 +31,25 @@ Sales_Analysis/
 - Created calculated columns:
 
 - Total Sales = Quantity × Price
-
-Earned Commission = Total Sales × Commission
+  Earned Commission = Total Sales × Commission
+  
 ---
 
 ## 🔹 KPI Calculations
-Sr.No	KPI	Formula / Logic	Use
-1	Total Sales	SUM(Total Sales)	Overall revenue
-2	Total Quantity Sold	SUM(Quantity)	Volume of sales
-3	Total Commission Earned	SUM(Earned Commission)	Total payout
-4	Average Sales per Transaction	AVERAGE(Total Sales)	Transaction efficiency
-5	Average Commission %	(SUM(Earned Commission) ÷ SUM(Total Sales)) × 100	Profitability insight
-6	Top Sales Rep (by Sales)	Pivot (Sales Rep, Total Sales, Sort Desc)	Best performer
-7	Top State (by Sales)	Pivot (State, Total Sales, Sort Desc)	Best market
-8	Most Selling Item	Pivot (Item, Quantity, Sort Desc)	Demand analysis
-9	Top vs Bottom Performers	Pivot + Conditional Formatting	Highlights extremes
-10	Commission Efficiency	(Earned Commission ÷ Total Sales)	Efficiency comparison
+
+| Sr.No | KPI                       | Formula / Logic                                | Use                    |
+|-------|---------------------------|-----------------------------------------------|-----------------------|
+| 1     | Total Sales               | SUM(Total Sales)                              | Overall revenue        |
+| 2     | Total Quantity Sold       | SUM(Quantity)                                 | Volume of sales        |
+| 3     | Total Commission Earned   | SUM(Earned Commission)                        | Total payout           |
+| 4     | Average Sales per Transaction | AVERAGE(Total Sales)                        | Transaction efficiency |
+| 5     | Average Commission %      | (SUM(Earned Commission) ÷ SUM(Total Sales)) × 100 | Profitability insight |
+| 6     | Top Sales Rep (by Sales)  | Pivot (Sales Rep, Total Sales, Sort Desc)    | Best performer         |
+| 7     | Top State (by Sales)      | Pivot (State, Total Sales, Sort Desc)        | Best market            |
+| 8     | Most Selling Item         | Pivot (Item, Quantity, Sort Desc)            | Demand analysis        |
+| 9     | Top vs Bottom Performers  | Pivot + Conditional Formatting               | Highlights extremes    |
+| 10    | Commission Efficiency     | (Earned Commission ÷ Total Sales)            | Efficiency comparison  |
+
 
 ## 🔹 Pivot Table Analysis
 
