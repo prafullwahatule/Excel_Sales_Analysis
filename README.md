@@ -78,7 +78,10 @@ Sales_Analysis/
 
 ## 🖼️ Dashboard Preview
 
-(Add screenshot here → e.g., your dashboard PNG)
+<img width="1920" height="1080" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/bba4b05d-df4b-49b0-9570-4f15ee1bf75e" />
+
+<img width="1920" height="1080" alt="Screenshot (99)" src="https://github.com/user-attachments/assets/53cbb7ad-e805-475e-86ff-43e7e5b69a6b" />
+
 
 ##🚀 How to Use
 
@@ -86,30 +89,31 @@ Clone this repo:
 
 git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 
+1. Open the Excel file in the 4_Visuals/ folder
 
-Open the Excel file in the 4_Visuals/ folder
-
-Interact with slicers and charts to explore insights
+2. Interact with slicers and charts to explore insights
 
 ## 🎯 Key Insights (Sample)
+---
+- Total Sales: ₹15,84,466
 
-Total Sales: ₹15,84,466
+- Top Sales Rep: Stacey
 
-Top Sales Rep: Stacey
+- Top State: Gujarat
 
-Top State: Gujarat
+- Most Selling Item: White Board
 
-Most Selling Item: White Board
-
-Highest Commission Efficiency: Bob (7.69%)
+- Highest Commission Efficiency: Bob (7.69%)
+---
 
 ## 🛠️ Tools Used
+---
+-- Microsoft Excel → Power Query, Pivot Tables, Charts
 
-Microsoft Excel → Power Query, Pivot Tables, Charts
+-- Conditional Formatting → Top/Bottom highlighting
 
-Conditional Formatting → Top/Bottom highlighting
-
-Map Chart → State-wise sales visualization
+-- Map Chart → State-wise sales visualization
+---
 
 ## 📌 Future Improvements
 
