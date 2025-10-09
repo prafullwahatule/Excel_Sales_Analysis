@@ -1,0 +1,1304 @@
+﻿Date,Item,Sales Rep,Quantity,Price,Commission,State
+43282,Printer,John,6,80,0.01,Meghalaya
+43282,White Board,Mark,20,10,0.05,Uttar Pradesh
+43282,Office Chair,Mark,22,230,0.11,Maharashtra
+43282,Office Chair,John,8,230,0.03,Delhi
+43282,Office Chair,Laura,12,230,0.03,West Bengal
+43282,Printer,Stacey,19,80,0.02,Bihar
+43282,Diary,Bob,17,16,0.08,Goa
+43282,Projector,Stacey,7,150,0.05,Karnataka
+43282,Projector,Stacey,20,150,0.1,Gujarat
+43282,Diary,John,21,16,0.09,Jharkhand
+43282,Office Chair,Mark,7,230,0.01,Haryana
+43283,Printer,Stacey,7,80,0.07,Kerala
+43283,Printer,Bob,9,80,0.02,Meghalaya
+43283,White Board,Bob,16,40,0.09,Uttar Pradesh
+43283,Projector,Mark,23,150,0.11,Maharashtra
+43283,Diary,Stacey,22,16,0.03,Delhi
+43283,White Board,Stacey,23,40,0.06,West Bengal
+43283,Printer,John,20,80,0.01,Bihar
+43284,Printer,Stacey,11,80,0.01,Goa
+43284,White Board,Stacey,9,40,0.06,Karnataka
+43284,Printer,Bob,16,80,0.09,Gujarat
+43284,Printer,Laura,10,80,0.08,Jharkhand
+43284,Diary,Laura,12,16,0.11,Haryana
+43284,Projector,Stacey,6,150,0.03,Kerala
+43284,Diary,Laura,11,16,0.04,Meghalaya
+43284,Printer,Stacey,22,80,0.03,Uttar Pradesh
+43284,Diary,Mark,7,16,0.08,Maharashtra
+43284,White Board,Stacey,13,40,0.09,Delhi
+43284,Office Chair,Stacey,8,230,0.05,West Bengal
+43284,Diary,Stacey,14,16,0.12,Bihar
+43284,White Board,Bob,16,40,0.09,Goa
+43285,Projector,Mark,16,150,0.05,Karnataka
+43285,White Board,Mark,12,40,0.1,Gujarat
+43285,Printer,Bob,17,80,0.07,Jharkhand
+43285,Office Chair,Stacey,19,230,0.06,Haryana
+43285,Office Chair,Bob,22,230,0.1,Kerala
+43285,White Board,Stacey,22,40,0.01,Meghalaya
+43285,Diary,Stacey,10,16,0.04,Uttar Pradesh
+43285,White Board,Mark,4,40,0.12,Maharashtra
+43285,White Board,Bob,20,40,0.05,Delhi
+43286,Office Chair,Stacey,23,230,0.06,West Bengal
+43286,White Board,Laura,20,40,0.01,Bihar
+43286,Projector,Laura,20,150,0.04,Goa
+43286,Printer,Mark,9,80,0.03,Karnataka
+43286,Office Chair,John,7,230,0.02,Gujarat
+43286,Office Chair,John,3,230,0.06,Jharkhand
+43286,Projector,John,13,150,0.05,Haryana
+43286,Printer,John,17,80,0.09,Kerala
+43287,White Board,Stacey,18,40,0.06,Meghalaya
+43287,Diary,Laura,23,16,0.11,Uttar Pradesh
+43287,Office Chair,Laura,20,230,0.06,Maharashtra
+43287,Diary,John,11,16,0.09,Delhi
+43287,Projector,Bob,15,150,0.07,West Bengal
+43287,Office Chair,Mark,6,230,0.1,Bihar
+43287,White Board,John,22,40,0.02,Goa
+43287,White Board,John,15,40,0.06,Karnataka
+43287,Diary,Laura,12,16,0.03,Gujarat
+43287,Diary,Bob,22,16,0.12,Jharkhand
+43287,Printer,John,21,80,0.04,Haryana
+43287,Projector,John,22,150,0.05,Kerala
+43287,Printer,Bob,21,80,0.09,Meghalaya
+43287,Printer,Stacey,10,80,0.1,Uttar Pradesh
+43287,Office Chair,Mark,15,230,0.09,Maharashtra
+43288,Printer,John,14,80,0.08,Delhi
+43288,Printer,Bob,10,80,0.06,West Bengal
+43288,Projector,John,5,150,0.11,Bihar
+43288,Office Chair,Stacey,3,230,0.01,Goa
+43288,White Board,Stacey,4,40,0.05,Karnataka
+43288,Projector,Laura,18,150,0.06,Gujarat
+43288,White Board,Bob,20,40,0.1,Jharkhand
+43288,Printer,Stacey,16,80,0.05,Meghalaya
+43288,White Board,Laura,4,40,0.06,Uttar Pradesh
+43288,White Board,Mark,4,40,0.03,Maharashtra
+43288,White Board,Mark,15,40,0.02,Delhi
+43288,White Board,Laura,20,40,0.01,West Bengal
+43288,Diary,Bob,14,16,0.06,Bihar
+43289,Projector,Laura,11,150,0.11,Goa
+43289,Projector,Laura,9,150,0.02,Karnataka
+43289,Diary,Bob,11,16,0.12,Gujarat
+43289,White Board,Laura,13,40,0.02,Jharkhand
+43289,White Board,Laura,4,40,0.1,Haryana
+43289,Office Chair,John,3,230,0.11,Kerala
+43289,Printer,Laura,6,80,0.09,Meghalaya
+43289,Projector,John,9,150,0.1,Uttar Pradesh
+43289,Printer,Mark,14,80,0.11,Maharashtra
+43289,Printer,John,18,80,0.02,Delhi
+43289,White Board,John,20,40,0.04,West Bengal
+43290,Diary,Laura,8,16,0.03,Bihar
+43290,Printer,Mark,14,80,0.06,Goa
+43290,Projector,John,20,150,0.01,Karnataka
+43290,White Board,Stacey,15,40,0.03,Gujarat
+43290,White Board,Mark,18,40,0.08,Jharkhand
+43290,White Board,Bob,11,40,0.05,Haryana
+43291,White Board,Bob,23,40,0.04,Kerala
+43291,Diary,Bob,17,16,0.1,Meghalaya
+43291,Diary,Mark,4,16,0.07,Uttar Pradesh
+43291,Printer,Laura,23,80,0.05,Maharashtra
+43291,Office Chair,Laura,10,230,0.02,Delhi
+43291,Diary,Laura,14,16,0.01,West Bengal
+43291,White Board,Mark,19,40,0.1,Bihar
+43291,Printer,Bob,22,80,0.09,Goa
+43291,Diary,John,18,16,0.05,Karnataka
+43291,White Board,John,18,40,0.11,Gujarat
+43291,White Board,Bob,21,40,0.01,Jharkhand
+43291,Printer,John,6,80,0.07,Haryana
+43291,Projector,Bob,17,150,0.02,Kerala
+43291,Printer,Laura,16,80,0.02,Meghalaya
+43291,White Board,Mark,15,40,0.04,Uttar Pradesh
+43291,Office Chair,Stacey,2,230,0.08,Maharashtra
+43291,White Board,Bob,3,40,0.03,Delhi
+43291,Office Chair,Bob,21,230,0.05,West Bengal
+43291,Projector,John,11,150,0.05,Bihar
+43292,Projector,Mark,15,150,0.02,Goa
+43292,Printer,Stacey,16,80,0.1,Karnataka
+43292,Office Chair,Bob,17,230,0.11,Gujarat
+43292,White Board,Bob,16,40,0.11,Jharkhand
+43292,Printer,Stacey,2,80,0.08,Haryana
+43292,Projector,Mark,22,150,0.02,Kerala
+43292,Printer,John,16,80,0.03,Meghalaya
+43293,Diary,John,20,16,0.11,Uttar Pradesh
+43293,Printer,Bob,9,80,0.07,Maharashtra
+43293,Office Chair,Bob,5,230,0.12,Delhi
+43293,Diary,John,20,16,0.01,West Bengal
+43293,Diary,John,16,16,0.03,Bihar
+43293,Projector,Stacey,15,150,0.05,Goa
+43293,Office Chair,Mark,19,230,0.11,Karnataka
+43294,Projector,Laura,2,150,0.02,Gujarat
+43294,Printer,Bob,16,80,0.05,Jharkhand
+43294,White Board,Laura,2,40,0.03,Haryana
+43294,Printer,Mark,5,80,0.04,Kerala
+43294,Office Chair,Stacey,17,230,0.12,Meghalaya
+43294,Printer,John,8,80,0.08,Uttar Pradesh
+43294,White Board,Mark,4,40,0.06,Maharashtra
+43294,Diary,Laura,17,16,0.05,Delhi
+43294,Office Chair,Stacey,8,230,0.01,West Bengal
+43294,Diary,Bob,19,16,0.02,Bihar
+43295,White Board,John,18,40,0.06,Goa
+43295,Projector,Bob,23,150,0.08,Karnataka
+43295,Office Chair,John,5,230,0.1,Gujarat
+43295,Printer,Stacey,21,80,0.02,Jharkhand
+43295,Diary,Laura,6,16,0.07,Meghalaya
+43295,White Board,John,9,40,0.01,Uttar Pradesh
+43295,Office Chair,Mark,9,230,0.03,Maharashtra
+43295,Office Chair,Laura,5,230,0.1,Delhi
+43295,White Board,Stacey,7,40,0.11,West Bengal
+43295,Office Chair,John,20,230,0.04,Bihar
+43295,Projector,John,22,150,0.07,Goa
+43296,Office Chair,Laura,6,230,0.05,Karnataka
+43296,Office Chair,Laura,15,230,0.11,Gujarat
+43296,White Board,Mark,8,40,0.09,Jharkhand
+43296,White Board,John,5,40,0.06,Haryana
+43296,Printer,Bob,6,80,0.09,Kerala
+43296,White Board,Stacey,22,40,0.01,Meghalaya
+43296,Diary,John,7,16,0.08,Uttar Pradesh
+43296,Projector,Laura,22,150,0.04,Maharashtra
+43296,Diary,Stacey,15,16,0.12,Delhi
+43296,Printer,Laura,20,80,0.07,West Bengal
+43296,Printer,Laura,7,80,0.05,Bihar
+43296,Printer,Mark,10,80,0.11,Goa
+43296,Printer,Mark,2,80,0.07,Karnataka
+43296,Diary,Bob,23,16,0.01,Gujarat
+43296,Office Chair,Mark,12,230,0.03,Jharkhand
+43297,Office Chair,John,7,230,0.08,Haryana
+43297,White Board,Stacey,11,40,0.06,Kerala
+43297,Office Chair,Mark,7,230,0.08,Meghalaya
+43297,Printer,John,8,80,0.09,Uttar Pradesh
+43297,Printer,Stacey,16,80,0.07,Maharashtra
+43297,Printer,Laura,16,80,0.04,Delhi
+43297,Diary,Laura,9,16,0.05,West Bengal
+43297,Projector,Bob,11,150,0.09,Bihar
+43297,Diary,John,4,16,0.12,Goa
+43297,White Board,Stacey,15,40,0.03,Karnataka
+43297,White Board,Bob,20,40,0.03,Gujarat
+43298,Projector,Laura,9,150,0.06,Jharkhand
+43298,White Board,Mark,23,40,0.06,Haryana
+43298,Printer,Bob,13,80,0.05,Kerala
+43298,Diary,John,22,16,0.01,Meghalaya
+43298,White Board,John,19,40,0.04,Uttar Pradesh
+43298,Printer,Stacey,4,80,0.11,Maharashtra
+43298,Diary,John,12,16,0.11,Delhi
+43298,Projector,Mark,16,150,0.08,West Bengal
+43298,Printer,John,7,80,0.02,Bihar
+43298,White Board,Bob,20,40,0.07,Goa
+43298,Printer,Mark,15,80,0.12,Karnataka
+43298,White Board,John,5,40,0.09,Gujarat
+43298,Diary,Bob,12,16,0.04,Jharkhand
+43299,Projector,Stacey,3,150,0.01,Haryana
+43299,White Board,Bob,7,40,0.12,Kerala
+43299,Printer,Mark,2,80,0.04,Meghalaya
+43299,White Board,Stacey,6,40,0.07,Uttar Pradesh
+43299,Diary,Laura,6,16,0.06,Maharashtra
+43299,Diary,John,7,16,0.02,Delhi
+43299,Diary,Mark,20,16,0.06,West Bengal
+43299,Diary,Mark,21,16,0.02,Bihar
+43299,Printer,Stacey,21,80,0.05,Goa
+43299,Diary,Stacey,10,16,0.01,Karnataka
+43300,Office Chair,Stacey,2,230,0.09,Gujarat
+43300,Projector,John,20,150,0.03,Jharkhand
+43300,White Board,John,23,40,0.03,Haryana
+43300,Printer,Stacey,17,80,0.05,Kerala
+43300,Office Chair,Stacey,11,230,0.12,Meghalaya
+43300,Projector,Mark,10,150,0.01,Uttar Pradesh
+43300,Printer,Mark,17,80,0.03,Maharashtra
+43301,Office Chair,John,9,230,0.07,Delhi
+43301,Office Chair,John,11,230,0.02,West Bengal
+43301,White Board,Laura,2,40,0.02,Bihar
+43301,Office Chair,Bob,3,230,0.1,Goa
+43301,White Board,Bob,7,40,0.05,Karnataka
+43301,Projector,Mark,20,150,0.09,Gujarat
+43301,White Board,Laura,4,40,0.11,Jharkhand
+43302,Office Chair,Laura,2,230,0.09,Meghalaya
+43302,White Board,Mark,7,40,0.01,Uttar Pradesh
+43302,White Board,John,2,40,0.12,Maharashtra
+43302,Printer,Mark,3,80,0.02,Delhi
+43302,Diary,John,18,16,0.11,West Bengal
+43302,Printer,Mark,5,80,0.07,Bihar
+43302,Diary,Laura,3,16,0.05,Goa
+43302,Printer,Stacey,7,80,0.02,Karnataka
+43302,Projector,Stacey,15,150,0.08,Gujarat
+43302,Printer,Laura,10,80,0.11,Jharkhand
+43302,Office Chair,Bob,13,230,0.06,Haryana
+43302,White Board,John,7,40,0.1,Kerala
+43302,Diary,Laura,6,16,0.01,Meghalaya
+43303,White Board,Laura,11,40,0.05,Uttar Pradesh
+43303,Printer,Stacey,8,80,0.06,Maharashtra
+43303,Printer,John,9,80,0.04,Delhi
+43303,White Board,Bob,4,40,0.09,West Bengal
+43303,Printer,Mark,13,80,0.06,Bihar
+43303,Projector,Bob,4,150,0.05,Goa
+43303,Office Chair,Laura,14,230,0.12,Karnataka
+43303,Projector,Bob,13,150,0.11,Gujarat
+43303,Projector,Mark,16,150,0.03,Jharkhand
+43303,Diary,John,7,16,0.12,Haryana
+43303,Projector,Stacey,9,150,0.02,Kerala
+43303,Diary,John,10,16,0.08,Meghalaya
+43303,Printer,Stacey,15,80,0.08,Uttar Pradesh
+43303,Printer,Bob,9,80,0.06,Maharashtra
+43304,Diary,Stacey,7,16,0.08,Delhi
+43304,Projector,Bob,7,150,0.03,West Bengal
+43304,Office Chair,Stacey,16,230,0.11,Bihar
+43304,Diary,Stacey,18,16,0.04,Goa
+43304,Office Chair,Bob,20,230,0.11,Karnataka
+43304,Projector,John,7,150,0.02,Gujarat
+43304,Diary,Laura,11,16,0.12,Jharkhand
+43304,White Board,Laura,12,40,0.02,Haryana
+43304,Projector,Bob,7,150,0.02,Kerala
+43304,Printer,Laura,14,80,0.1,Meghalaya
+43304,Office Chair,Laura,12,230,0.06,Uttar Pradesh
+43305,Printer,Mark,21,80,0.04,Maharashtra
+43305,Projector,John,8,150,0.09,Delhi
+43305,Printer,Mark,16,80,0.04,West Bengal
+43305,Office Chair,Mark,14,230,0.05,Bihar
+43305,White Board,Laura,2,40,0.03,Goa
+43305,Projector,John,4,150,0.1,Karnataka
+43305,Printer,Laura,6,80,0.01,Gujarat
+43305,White Board,Laura,6,40,0.06,Jharkhand
+43305,Projector,John,20,150,0.04,Haryana
+43305,White Board,Laura,18,40,0.03,Kerala
+43305,Office Chair,Stacey,18,230,0.01,Meghalaya
+43305,Office Chair,Laura,15,230,0.04,Uttar Pradesh
+43305,Diary,Mark,22,16,0.01,Maharashtra
+43305,Projector,John,17,150,0.12,Delhi
+43306,Diary,Mark,5,16,0.11,West Bengal
+43306,Projector,John,23,150,0.1,Bihar
+43306,Projector,Stacey,22,150,0.05,Goa
+43306,Diary,Bob,15,16,0.01,Karnataka
+43306,White Board,Stacey,7,40,0.07,Gujarat
+43306,Printer,Bob,22,80,0.11,Jharkhand
+43306,Projector,Laura,11,150,0.05,Haryana
+43306,White Board,Mark,21,40,0.03,Kerala
+43306,Printer,Stacey,23,80,0.11,Meghalaya
+43306,Office Chair,Laura,7,230,0.01,Uttar Pradesh
+43306,Office Chair,John,16,230,0.07,Maharashtra
+43306,Printer,Mark,14,80,0.11,Delhi
+43306,Projector,Laura,22,150,0.09,West Bengal
+43306,Projector,Stacey,4,150,0.12,Bihar
+43306,Projector,John,3,150,0.03,Goa
+43306,White Board,Bob,17,40,0.02,Karnataka
+43306,Printer,Bob,22,80,0.1,Gujarat
+43306,Projector,Bob,18,150,0.12,Jharkhand
+43307,Projector,John,4,150,0.06,Meghalaya
+43307,Office Chair,Mark,22,230,0.04,Uttar Pradesh
+43307,Projector,Mark,15,150,0.12,Maharashtra
+43307,Printer,John,17,80,0.07,Delhi
+43307,White Board,Bob,10,40,0.03,West Bengal
+43307,White Board,John,23,40,0.07,Bihar
+43307,Diary,Mark,22,16,0.04,Goa
+43307,Printer,Laura,8,80,0.02,Karnataka
+43307,Diary,Mark,4,16,0.09,Gujarat
+43307,White Board,Stacey,11,40,0.09,Jharkhand
+43307,Office Chair,Laura,18,230,0.01,Haryana
+43308,Office Chair,Mark,11,230,0.1,Kerala
+43308,Office Chair,John,15,230,0.05,Meghalaya
+43308,White Board,Bob,7,40,0.04,Uttar Pradesh
+43308,Projector,Laura,20,150,0.12,Maharashtra
+43308,Printer,Laura,5,80,0.09,Delhi
+43308,Printer,Stacey,14,80,0.05,West Bengal
+43308,Office Chair,Stacey,7,230,0.06,Bihar
+43308,White Board,Stacey,13,40,0.06,Goa
+43309,Diary,Mark,15,16,0.02,Karnataka
+43309,Diary,Stacey,5,16,0.09,Gujarat
+43309,Diary,John,22,16,0.06,Jharkhand
+43309,Projector,Laura,15,150,0.05,Haryana
+43309,Office Chair,Laura,5,230,0.01,Kerala
+43309,White Board,John,11,40,0.04,Meghalaya
+43309,Projector,Mark,13,150,0.08,Uttar Pradesh
+43309,Diary,Bob,13,16,0.07,Maharashtra
+43309,Diary,Bob,3,16,0.03,Delhi
+43310,Projector,Mark,2,150,0.09,West Bengal
+43310,Office Chair,Laura,14,230,0.03,Bihar
+43310,White Board,Laura,11,40,0.12,Goa
+43310,Diary,Bob,3,16,0.06,Karnataka
+43310,White Board,Bob,18,40,0.06,Gujarat
+43310,Office Chair,Bob,7,230,0.05,Jharkhand
+43310,White Board,Bob,23,40,0.05,Haryana
+43311,Office Chair,Bob,2,230,0.08,Kerala
+43311,White Board,Stacey,18,40,0.04,Meghalaya
+43311,Office Chair,Mark,7,230,0.05,Uttar Pradesh
+43311,White Board,Bob,14,40,0.11,Maharashtra
+43311,Projector,Mark,13,150,0.02,Delhi
+43311,Printer,John,12,80,0.04,West Bengal
+43311,Office Chair,Bob,20,230,0.09,Bihar
+43311,White Board,Bob,5,40,0.03,Goa
+43311,Diary,Bob,2,16,0.04,Karnataka
+43282,Printer,Laura,10,80,0.08,Gujarat
+43282,White Board,Stacey,18,40,0.06,Jharkhand
+43282,Office Chair,Mark,7,230,0.08,Haryana
+43282,White Board,Stacey,15,40,0.03,Kerala
+43282,Diary,Laura,6,16,0.01,Meghalaya
+43282,Projector,Stacey,9,150,0.02,Uttar Pradesh
+43282,Diary,Bob,15,16,0.01,Maharashtra
+43282,Printer,Bob,22,80,0.11,Delhi
+43282,Projector,Mark,13,150,0.02,West Bengal
+43283,Diary,Laura,12,16,0.03,Bihar
+43283,White Board,Stacey,4,40,0.05,Goa
+43283,Office Chair,Mark,19,230,0.11,Karnataka
+43283,White Board,Mark,4,40,0.06,Gujarat
+43283,Diary,Laura,6,16,0.07,Jharkhand
+43283,Office Chair,Laura,15,230,0.11,Haryana
+43283,Printer,Laura,16,80,0.04,Kerala
+43283,White Board,John,7,40,0.1,Meghalaya
+43283,White Board,Laura,11,40,0.05,Uttar Pradesh
+43283,Printer,Bob,9,80,0.06,Maharashtra
+43283,Printer,Mark,21,80,0.04,Delhi
+43283,White Board,Laura,2,40,0.03,West Bengal
+43284,Diary,Laura,17,16,0.05,Bihar
+43284,White Board,John,18,40,0.06,Goa
+43284,White Board,John,9,40,0.01,Karnataka
+43284,White Board,Mark,7,40,0.01,Gujarat
+43284,Office Chair,Laura,12,230,0.06,Jharkhand
+43284,Diary,Mark,22,16,0.04,Meghalaya
+43285,Projector,John,5,150,0.11,Uttar Pradesh
+43285,Printer,Mark,14,80,0.11,Maharashtra
+43285,Diary,Laura,8,16,0.03,Delhi
+43285,Office Chair,Laura,6,230,0.05,West Bengal
+43285,Diary,Stacey,7,16,0.08,Bihar
+43285,Printer,Mark,16,80,0.04,Goa
+43285,Projector,John,17,150,0.12,Karnataka
+43285,Diary,Mark,7,16,0.08,Gujarat
+43286,Diary,John,21,16,0.09,Jharkhand
+43286,Diary,Laura,23,16,0.11,Haryana
+43286,Projector,Laura,2,150,0.02,Kerala
+43286,Projector,John,22,150,0.07,Meghalaya
+43286,White Board,Stacey,22,40,0.01,Uttar Pradesh
+43286,Printer,Mark,10,80,0.11,Maharashtra
+43286,Printer,Bob,13,80,0.05,Delhi
+43286,Office Chair,Stacey,11,230,0.12,West Bengal
+43286,Office Chair,John,9,230,0.07,Bihar
+43286,Office Chair,Stacey,16,230,0.11,Goa
+43286,Office Chair,Stacey,18,230,0.01,Karnataka
+43286,Diary,Mark,15,16,0.02,Gujarat
+43286,White Board,Bob,18,40,0.06,Jharkhand
+43286,White Board,Stacey,18,40,0.04,Haryana
+43286,Diary,Stacey,22,16,0.03,Kerala
+43286,Diary,Laura,12,16,0.11,Meghalaya
+43287,Printer,John,20,80,0.01,Uttar Pradesh
+43287,Office Chair,Laura,10,230,0.02,Maharashtra
+43287,Office Chair,Mark,9,230,0.03,Delhi
+43287,Printer,Mark,17,80,0.03,West Bengal
+43287,White Board,Bob,4,40,0.09,Bihar
+43287,Projector,Mark,16,150,0.03,Goa
+43287,Printer,Laura,8,80,0.02,Karnataka
+43287,White Board,Stacey,23,40,0.06,Gujarat
+43288,Projector,Stacey,20,150,0.1,Jharkhand
+43288,Office Chair,Bob,22,230,0.1,Haryana
+43288,Office Chair,Mark,6,230,0.1,Kerala
+43288,Printer,Stacey,10,80,0.1,Meghalaya
+43288,Office Chair,Bob,21,230,0.05,Uttar Pradesh
+43288,Office Chair,John,20,230,0.04,Maharashtra
+43288,Printer,Laura,20,80,0.07,Delhi
+43288,Printer,Laura,7,80,0.05,West Bengal
+43288,Printer,John,8,80,0.09,Bihar
+43288,Printer,Mark,3,80,0.02,Goa
+43288,Printer,Stacey,8,80,0.06,Karnataka
+43288,Projector,Bob,13,150,0.11,Gujarat
+43288,Printer,Stacey,15,80,0.08,Jharkhand
+43288,Projector,Bob,7,150,0.02,Haryana
+43288,White Board,Laura,6,40,0.06,Kerala
+43288,Printer,Stacey,23,80,0.11,Meghalaya
+43288,Office Chair,Laura,18,230,0.01,Uttar Pradesh
+43289,Printer,Bob,21,80,0.09,Maharashtra
+43289,White Board,Laura,13,40,0.02,Delhi
+43289,Printer,Laura,23,80,0.05,West Bengal
+43289,Projector,Stacey,15,150,0.05,Bihar
+43289,White Board,John,5,40,0.09,Goa
+43289,Diary,Stacey,10,16,0.01,Karnataka
+43289,Office Chair,Laura,2,230,0.09,Gujarat
+43289,Printer,Stacey,7,80,0.02,Jharkhand
+43289,Projector,Stacey,22,150,0.05,Haryana
+43289,White Board,Bob,17,40,0.02,Kerala
+43289,Diary,John,22,16,0.06,Meghalaya
+43289,Diary,Bob,3,16,0.03,Uttar Pradesh
+43289,Office Chair,Bob,2,230,0.08,Maharashtra
+43289,Diary,John,21,16,0.09,Delhi
+43289,Printer,Stacey,7,80,0.07,West Bengal
+43289,Projector,Mark,23,150,0.11,Bihar
+43290,Projector,John,11,150,0.05,Goa
+43290,Printer,Bob,16,80,0.05,Karnataka
+43290,Office Chair,Laura,5,230,0.1,Gujarat
+43290,Diary,John,22,16,0.01,Jharkhand
+43290,White Board,Bob,7,40,0.12,Meghalaya
+43290,Printer,Mark,2,80,0.04,Uttar Pradesh
+43290,White Board,Stacey,6,40,0.07,Maharashtra
+43290,Printer,Laura,6,80,0.01,Delhi
+43290,Diary,Mark,22,16,0.01,West Bengal
+43290,Office Chair,Stacey,7,230,0.06,Bihar
+43291,Diary,Stacey,22,16,0.03,Goa
+43291,White Board,Bob,20,40,0.05,Karnataka
+43291,White Board,Mark,19,40,0.1,Gujarat
+43291,Diary,John,18,16,0.05,Jharkhand
+43291,White Board,Laura,2,40,0.02,Haryana
+43291,White Board,Stacey,7,40,0.07,Kerala
+43291,Projector,Laura,11,150,0.05,Meghalaya
+43291,Printer,Mark,14,80,0.11,Uttar Pradesh
+43291,White Board,Bob,7,40,0.04,Maharashtra
+43291,Printer,Stacey,14,80,0.05,Delhi
+43292,Diary,Laura,12,16,0.11,West Bengal
+43292,White Board,Bob,11,40,0.05,Bihar
+43292,Diary,Laura,14,16,0.01,Goa
+43292,Office Chair,Stacey,2,230,0.08,Karnataka
+43292,Diary,John,20,16,0.11,Gujarat
+43292,Diary,Laura,6,16,0.06,Jharkhand
+43292,Printer,Stacey,17,80,0.05,Haryana
+43292,White Board,John,2,40,0.12,Kerala
+43292,Diary,John,7,16,0.12,Meghalaya
+43292,Projector,John,7,150,0.02,Uttar Pradesh
+43292,Printer,John,20,80,0.01,Maharashtra
+43292,Printer,Stacey,11,80,0.01,Delhi
+43292,Printer,Laura,10,80,0.08,West Bengal
+43293,Printer,Mark,5,80,0.04,Bihar
+43293,Printer,Stacey,4,80,0.11,Goa
+43293,Diary,Laura,3,16,0.05,Karnataka
+43293,Printer,John,9,80,0.04,Gujarat
+43293,Printer,Bob,16,80,0.09,Jharkhand
+43294,Diary,Mark,7,16,0.08,Haryana
+43294,Projector,Mark,16,150,0.05,Kerala
+43294,Diary,Stacey,10,16,0.04,Meghalaya
+43294,White Board,Mark,4,40,0.03,Uttar Pradesh
+43294,White Board,Mark,15,40,0.02,Maharashtra
+43294,Printer,Laura,6,80,0.09,Delhi
+43294,Projector,John,20,150,0.01,West Bengal
+43294,Diary,John,7,16,0.08,Bihar
+43294,Printer,Mark,2,80,0.07,Goa
+43294,White Board,Mark,23,40,0.06,Karnataka
+43294,Diary,John,12,16,0.11,Gujarat
+43294,Office Chair,Stacey,2,230,0.09,Jharkhand
+43294,Projector,John,4,150,0.06,Haryana
+43294,White Board,John,23,40,0.07,Kerala
+43294,Diary,Bob,2,16,0.04,Meghalaya
+43294,Projector,Stacey,7,150,0.05,Uttar Pradesh
+43295,White Board,John,15,40,0.06,Maharashtra
+43295,Printer,Stacey,16,80,0.05,Delhi
+43295,White Board,Bob,16,40,0.11,West Bengal
+43295,Diary,Bob,23,16,0.01,Bihar
+43295,Office Chair,Mark,12,230,0.03,Goa
+43295,Diary,John,4,16,0.12,Karnataka
+43295,Projector,Stacey,3,150,0.01,Gujarat
+43295,Projector,Mark,10,150,0.01,Jharkhand
+43295,Printer,Mark,13,80,0.06,Haryana
+43295,Office Chair,Laura,15,230,0.04,Kerala
+43295,Projector,John,23,150,0.1,Meghalaya
+43295,Projector,Mark,15,150,0.12,Uttar Pradesh
+43295,Projector,Laura,20,150,0.12,Maharashtra
+43295,White Board,Stacey,13,40,0.09,Delhi
+43296,Diary,Laura,11,16,0.04,West Bengal
+43296,Projector,Laura,20,150,0.04,Bihar
+43296,White Board,John,18,40,0.11,Goa
+43296,White Board,Laura,2,40,0.03,Karnataka
+43296,Diary,Stacey,15,16,0.12,Gujarat
+43296,Diary,Laura,9,16,0.05,Jharkhand
+43296,White Board,Bob,7,40,0.05,Meghalaya
+43296,Projector,Bob,4,150,0.05,Uttar Pradesh
+43296,Office Chair,John,15,230,0.05,Maharashtra
+43297,White Board,Mark,12,40,0.1,Delhi
+43297,Office Chair,Stacey,23,230,0.06,West Bengal
+43297,Diary,John,11,16,0.09,Bihar
+43297,Projector,John,9,150,0.1,Goa
+43297,Printer,John,18,80,0.02,Karnataka
+43297,White Board,Bob,23,40,0.04,Gujarat
+43297,Diary,Bob,17,16,0.1,Jharkhand
+43297,Projector,Bob,17,150,0.02,Haryana
+43297,Printer,Stacey,21,80,0.02,Kerala
+43297,White Board,Stacey,11,40,0.06,Meghalaya
+43297,White Board,John,19,40,0.04,Uttar Pradesh
+43297,White Board,John,23,40,0.03,Maharashtra
+43297,Office Chair,Mark,14,230,0.05,Delhi
+43297,White Board,Laura,18,40,0.03,West Bengal
+43297,Projector,Mark,2,150,0.09,Bihar
+43297,Office Chair,Mark,7,230,0.05,Goa
+43298,Projector,Laura,9,150,0.02,Karnataka
+43298,White Board,Bob,3,40,0.03,Gujarat
+43298,Printer,Stacey,2,80,0.08,Jharkhand
+43298,Diary,Bob,19,16,0.02,Haryana
+43298,Diary,Mark,21,16,0.02,Kerala
+43298,Printer,Stacey,21,80,0.05,Meghalaya
+43298,Office Chair,Bob,3,230,0.1,Uttar Pradesh
+43298,White Board,Laura,4,40,0.11,Maharashtra
+43298,Projector,Bob,7,150,0.03,Delhi
+43298,Diary,Laura,11,16,0.12,West Bengal
+43298,Printer,John,17,80,0.07,Bihar
+43298,Diary,Stacey,5,16,0.09,Goa
+43298,Diary,Bob,13,16,0.07,Karnataka
+43298,Printer,Bob,9,80,0.02,Gujarat
+43299,Printer,Bob,9,80,0.02,Jharkhand
+43299,Printer,Stacey,22,80,0.03,Haryana
+43299,Projector,John,13,150,0.05,Kerala
+43299,Printer,John,14,80,0.08,Meghalaya
+43299,Printer,John,6,80,0.07,Uttar Pradesh
+43299,Printer,John,16,80,0.03,Maharashtra
+43299,Projector,Laura,22,150,0.09,Delhi
+43299,Projector,Stacey,4,150,0.12,West Bengal
+43299,Office Chair,Bob,7,230,0.05,Bihar
+43299,Projector,Stacey,20,150,0.1,Goa
+43299,Office Chair,Stacey,8,230,0.05,Karnataka
+43300,White Board,Stacey,9,40,0.06,Gujarat
+43300,Office Chair,Stacey,19,230,0.06,Jharkhand
+43300,White Board,Stacey,22,40,0.01,Haryana
+43300,White Board,John,22,40,0.02,Kerala
+43300,Printer,Bob,10,80,0.06,Meghalaya
+43300,White Board,Stacey,7,40,0.11,Uttar Pradesh
+43300,Office Chair,John,7,230,0.08,Maharashtra
+43300,Diary,John,18,16,0.11,Delhi
+43300,Office Chair,Laura,14,230,0.12,West Bengal
+43300,White Board,Mark,21,40,0.03,Bihar
+43300,Projector,John,3,150,0.03,Goa
+43300,Printer,John,12,80,0.04,Karnataka
+43301,Projector,Stacey,6,150,0.03,Gujarat
+43301,White Board,Laura,20,40,0.01,Jharkhand
+43301,Office Chair,John,3,230,0.06,Goa
+43301,Office Chair,Stacey,3,230,0.01,Karnataka
+43301,White Board,John,20,40,0.04,Gujarat
+43301,Printer,Laura,16,80,0.02,Jharkhand
+43301,Projector,John,8,150,0.09,Goa
+43302,Office Chair,Mark,7,230,0.01,Karnataka
+43302,Projector,Mark,23,150,0.11,Gujarat
+43302,White Board,Bob,16,40,0.09,Jharkhand
+43302,White Board,Bob,20,40,0.1,Goa
+43302,White Board,Mark,18,40,0.08,Karnataka
+43302,Printer,Bob,22,80,0.09,Gujarat
+43302,Projector,Mark,22,150,0.02,Jharkhand
+43302,Projector,Mark,20,150,0.09,Goa
+43302,Diary,John,10,16,0.08,Karnataka
+43302,White Board,Laura,12,40,0.02,Gujarat
+43302,Projector,John,4,150,0.1,Jharkhand
+43302,Printer,Laura,5,80,0.09,Goa
+43302,White Board,John,11,40,0.04,Karnataka
+43302,Projector,Mark,13,150,0.08,Gujarat
+43302,Printer,Stacey,19,80,0.02,Jharkhand
+43302,Office Chair,Mark,7,230,0.01,Goa
+43303,Printer,Bob,16,80,0.09,Karnataka
+43303,Office Chair,John,7,230,0.02,Gujarat
+43303,White Board,John,5,40,0.06,Jharkhand
+43303,Projector,Laura,9,150,0.06,Goa
+43303,White Board,Bob,20,40,0.07,Karnataka
+43303,Diary,Mark,20,16,0.06,Gujarat
+43303,White Board,Bob,5,40,0.03,Jharkhand
+43304,Printer,Stacey,7,80,0.07,Goa
+43304,Diary,Bob,22,16,0.12,Karnataka
+43304,Diary,Bob,11,16,0.12,Gujarat
+43304,Office Chair,Stacey,17,230,0.12,Jharkhand
+43304,Printer,John,7,80,0.02,Goa
+43304,Diary,Mark,5,16,0.11,Karnataka
+43304,Projector,Bob,18,150,0.12,Gujarat
+43304,White Board,Bob,10,40,0.03,Jharkhand
+43304,White Board,Bob,14,40,0.11,Goa
+43304,White Board,Bob,16,40,0.09,Karnataka
+43305,White Board,Stacey,23,40,0.06,Gujarat
+43305,Office Chair,Stacey,8,230,0.05,Jharkhand
+43305,Diary,Stacey,14,16,0.12,Goa
+43305,Printer,John,17,80,0.09,Karnataka
+43305,Projector,Laura,11,150,0.11,Gujarat
+43305,White Board,Stacey,15,40,0.03,Jharkhand
+43305,Printer,Bob,9,80,0.07,Goa
+43305,Office Chair,Mark,22,230,0.04,Karnataka
+43305,Office Chair,Mark,11,230,0.1,Gujarat
+43305,White Board,Laura,11,40,0.12,Jharkhand
+43305,White Board,Stacey,9,40,0.06,Goa
+43306,White Board,Stacey,13,40,0.09,Karnataka
+43306,White Board,Mark,4,40,0.12,Gujarat
+43306,Projector,John,22,150,0.05,Jharkhand
+43306,White Board,Bob,21,40,0.01,Goa
+43306,Diary,John,16,16,0.03,Karnataka
+43306,Printer,Stacey,16,80,0.07,Gujarat
+43306,Printer,Mark,15,80,0.12,Jharkhand
+43306,Projector,John,20,150,0.03,Goa
+43306,White Board,Stacey,13,40,0.06,Karnataka
+43306,Diary,Bob,3,16,0.06,Gujarat
+43306,Diary,Laura,11,16,0.04,Jharkhand
+43307,White Board,Bob,16,40,0.09,Goa
+43307,White Board,Laura,4,40,0.06,Karnataka
+43307,White Board,Laura,20,40,0.01,Gujarat
+43307,White Board,Laura,4,40,0.1,Jharkhand
+43307,Printer,Mark,14,80,0.06,Goa
+43307,Projector,Mark,15,150,0.02,Karnataka
+43307,Printer,Laura,14,80,0.1,Gujarat
+43307,Projector,John,20,150,0.04,Jharkhand
+43307,Printer,Bob,22,80,0.1,Goa
+43307,Office Chair,Bob,20,230,0.09,Karnataka
+43307,Office Chair,Laura,12,230,0.03,Gujarat
+43308,Printer,John,21,80,0.04,Jharkhand
+43308,White Board,Mark,15,40,0.04,Goa
+43308,Printer,Stacey,16,80,0.1,Karnataka
+43308,Office Chair,Bob,17,230,0.11,Gujarat
+43308,Office Chair,Bob,5,230,0.12,Jharkhand
+43308,Diary,John,20,16,0.01,Goa
+43308,Office Chair,John,5,230,0.1,Karnataka
+43308,White Board,Mark,8,40,0.09,Gujarat
+43308,Diary,John,7,16,0.02,Jharkhand
+43308,Projector,Stacey,15,150,0.08,Goa
+43308,Office Chair,Bob,20,230,0.11,Karnataka
+43308,Diary,Mark,4,16,0.09,Gujarat
+43308,White Board,Stacey,11,40,0.09,Jharkhand
+43308,Projector,Laura,15,150,0.05,Goa
+43308,Office Chair,Laura,5,230,0.01,Karnataka
+43308,Office Chair,Laura,14,230,0.03,Gujarat
+43308,White Board,Bob,23,40,0.05,Jharkhand
+43308,Printer,Stacey,22,80,0.03,Goa
+43309,Office Chair,Laura,20,230,0.06,Karnataka
+43309,Office Chair,Mark,15,230,0.09,Gujarat
+43309,Projector,Laura,18,150,0.06,Jharkhand
+43309,Office Chair,John,3,230,0.11,Goa
+43309,Projector,Bob,11,150,0.09,Karnataka
+43309,Office Chair,John,11,230,0.02,Gujarat
+43309,Office Chair,Bob,13,230,0.06,Jharkhand
+43310,Printer,Stacey,11,80,0.01,Goa
+43310,Printer,Bob,17,80,0.07,Karnataka
+43310,Projector,Bob,15,150,0.07,Gujarat
+43310,Diary,Bob,14,16,0.06,Jharkhand
+43310,Diary,Mark,4,16,0.07,Goa
+43310,Projector,Bob,23,150,0.08,Karnataka
+43310,Printer,Laura,10,80,0.11,Gujarat
+43310,Office Chair,Laura,7,230,0.01,Jharkhand
+43310,Office Chair,John,16,230,0.07,Goa
+43310,Diary,Bob,17,16,0.08,Karnataka
+43311,Printer,Bob,6,80,0.09,Gujarat
+43311,Projector,Laura,22,150,0.04,Jharkhand
+43311,White Board,Bob,20,40,0.03,Goa
+43311,Projector,Mark,16,150,0.08,Karnataka
+43311,Printer,Mark,5,80,0.07,Gujarat
+43311,Projector,Stacey,6,150,0.03,Jharkhand
+43312,Printer,Mark,9,80,0.03,Goa
+43312,Printer,John,8,80,0.08,Karnataka
+43312,Office Chair,Stacey,8,230,0.01,Gujarat
+43312,Diary,Bob,12,16,0.04,Jharkhand
+43312,Diary,Stacey,18,16,0.04,Goa
+43282,Diary,Stacey,10,16,0.01,Karnataka
+43282,Diary,Stacey,14,16,0.12,Gujarat
+43282,White Board,Laura,6,40,0.06,Jharkhand
+43282,White Board,Stacey,13,40,0.09,Goa
+43282,Diary,Stacey,10,16,0.04,Karnataka
+43282,Printer,Mark,14,80,0.11,Gujarat
+43282,White Board,Mark,4,40,0.06,Jharkhand
+43282,White Board,Laura,11,40,0.05,Goa
+43282,Diary,Laura,14,16,0.01,Karnataka
+43282,Projector,John,20,150,0.04,Gujarat
+43282,White Board,Stacey,9,40,0.06,Jharkhand
+43282,Projector,Laura,18,150,0.06,Goa
+43282,Office Chair,Bob,17,230,0.11,Karnataka
+43283,White Board,John,20,40,0.04,Gujarat
+43283,White Board,John,23,40,0.03,Jharkhand
+43283,Office Chair,Bob,21,230,0.05,Goa
+43283,Printer,Laura,6,80,0.09,Karnataka
+43283,Diary,John,20,16,0.01,Gujarat
+43283,White Board,Mark,8,40,0.09,Jharkhand
+43283,Office Chair,Mark,15,230,0.09,Goa
+43284,Printer,Stacey,21,80,0.02,Karnataka
+43284,Printer,Stacey,19,80,0.02,Gujarat
+43284,Diary,John,7,16,0.08,Jharkhand
+43284,White Board,Bob,11,40,0.05,Goa
+43284,Office Chair,Stacey,8,230,0.05,Karnataka
+43284,Printer,John,18,80,0.02,Gujarat
+43284,White Board,John,7,40,0.1,Jharkhand
+43285,Diary,John,16,16,0.03,Goa
+43285,Printer,John,8,80,0.08,Karnataka
+43285,Office Chair,Bob,22,230,0.1,Gujarat
+43285,Office Chair,Bob,3,230,0.1,Jharkhand
+43285,Office Chair,Bob,20,230,0.11,Goa
+43285,Diary,Laura,12,16,0.03,Karnataka
+43285,White Board,Bob,20,40,0.07,Gujarat
+43285,Office Chair,John,3,230,0.06,Jharkhand
+43285,Printer,Stacey,16,80,0.07,Goa
+43286,White Board,Bob,3,40,0.03,Karnataka
+43286,Office Chair,Laura,12,230,0.03,Gujarat
+43286,White Board,Stacey,22,40,0.01,Jharkhand
+43286,White Board,Mark,19,40,0.1,Goa
+43286,Printer,Mark,21,80,0.04,Karnataka
+43286,Printer,Mark,2,80,0.04,Gujarat
+43286,Projector,Mark,15,150,0.02,Jharkhand
+43287,White Board,Mark,14,40,0.06,Goa
+43287,Printer,Stacey,7,80,0.07,Karnataka
+43287,Printer,Laura,7,80,0.05,Gujarat
+43287,Projector,Mark,10,150,0.01,Jharkhand
+43287,Printer,Laura,10,80,0.08,Goa
+43287,Printer,Stacey,15,80,0.08,Karnataka
+43287,Office Chair,Stacey,18,230,0.01,Gujarat
+43287,Printer,John,8,80,0.09,Jharkhand
+43287,Diary,Laura,6,16,0.01,Goa
+43287,Office Chair,Mark,9,230,0.03,Karnataka
+43288,White Board,Stacey,15,40,0.03,Gujarat
+43288,White Board,Mark,15,40,0.04,Jharkhand
+43288,Diary,Bob,11,16,0.12,Goa
+43288,Diary,John,12,16,0.11,Maharashtra
+43288,Diary,Stacey,18,16,0.04,Gujarat
+43288,White Board,Laura,20,40,0.01,Maharashtra
+43288,Projector,Bob,7,150,0.03,Gujarat
+43288,White Board,Stacey,23,40,0.06,Maharashtra
+43288,Printer,John,7,80,0.02,Gujarat
+43288,Projector,Mark,16,150,0.05,Maharashtra
+43288,Office Chair,Mark,6,230,0.1,Gujarat
+43289,White Board,Bob,7,40,0.12,Maharashtra
+43289,Printer,Laura,23,80,0.05,Gujarat
+43289,Printer,Stacey,16,80,0.1,Maharashtra
+43289,Printer,John,16,80,0.03,Gujarat
+43289,Printer,Bob,22,80,0.09,Maharashtra
+43289,Diary,John,18,16,0.05,Gujarat
+43289,Office Chair,Bob,5,230,0.12,Maharashtra
+43289,Projector,Bob,7,150,0.02,Gujarat
+43289,White Board,Laura,2,40,0.03,Maharashtra
+43289,White Board,Stacey,11,40,0.06,Gujarat
+43289,Printer,Stacey,7,80,0.02,Maharashtra
+43290,White Board,Laura,4,40,0.11,Gujarat
+43290,White Board,Laura,2,40,0.02,Maharashtra
+43290,Office Chair,Stacey,23,230,0.06,Gujarat
+43290,Printer,Bob,21,80,0.09,Maharashtra
+43290,Printer,Bob,9,80,0.06,Gujarat
+43290,Printer,Bob,22,80,0.11,Maharashtra
+43291,Office Chair,Laura,15,230,0.11,Gujarat
+43291,White Board,Mark,7,40,0.01,Maharashtra
+43291,Projector,Bob,17,150,0.02,Gujarat
+43291,Projector,Mark,22,150,0.02,Maharashtra
+43291,Office Chair,Laura,10,230,0.02,Gujarat
+43291,White Board,Bob,21,40,0.01,Maharashtra
+43291,Office Chair,Laura,5,230,0.1,Gujarat
+43291,Office Chair,Bob,13,230,0.06,Maharashtra
+43291,Projector,John,23,150,0.1,Gujarat
+43291,Projector,John,20,150,0.03,Maharashtra
+43292,Office Chair,John,3,230,0.11,Gujarat
+43292,Projector,Mark,16,150,0.08,Maharashtra
+43292,Diary,Bob,14,16,0.06,Gujarat
+43292,Projector,Mark,16,150,0.03,Maharashtra
+43292,Diary,Bob,19,16,0.02,Gujarat
+43292,Printer,Bob,6,80,0.09,Maharashtra
+43292,Printer,Bob,9,80,0.07,Gujarat
+43292,Projector,Mark,20,150,0.09,Maharashtra
+43292,Printer,Laura,10,80,0.11,Gujarat
+43292,Diary,John,4,16,0.12,Maharashtra
+43292,White Board,Bob,16,40,0.11,Gujarat
+43293,Printer,Mark,5,80,0.04,Maharashtra
+43293,Diary,Laura,11,16,0.04,Gujarat
+43293,Projector,John,17,150,0.12,Maharashtra
+43293,Office Chair,Mark,19,230,0.11,Gujarat
+43293,Printer,John,21,80,0.04,Maharashtra
+43293,Office Chair,Mark,7,230,0.01,Gujarat
+43293,White Board,Laura,2,40,0.03,Maharashtra
+43293,Projector,John,7,150,0.02,Gujarat
+43294,Printer,Laura,16,80,0.04,Maharashtra
+43294,White Board,Mark,4,40,0.12,Gujarat
+43294,Diary,John,22,16,0.01,Maharashtra
+43294,White Board,Stacey,18,40,0.06,Gujarat
+43294,Printer,Laura,6,80,0.01,Maharashtra
+43294,Office Chair,Laura,2,230,0.09,Gujarat
+43295,Projector,Bob,11,150,0.09,Maharashtra
+43295,Projector,Stacey,15,150,0.08,Gujarat
+43295,Printer,John,17,80,0.09,Maharashtra
+43295,Projector,Bob,13,150,0.11,Gujarat
+43295,White Board,Stacey,7,40,0.07,Maharashtra
+43295,Office Chair,Stacey,3,230,0.01,Gujarat
+43295,White Board,Laura,12,40,0.02,Maharashtra
+43295,Projector,Laura,11,150,0.11,Gujarat
+43295,White Board,Mark,21,40,0.03,Maharashtra
+43295,Projector,John,22,150,0.07,Gujarat
+43295,White Board,Laura,20,40,0.01,Maharashtra
+43296,Diary,Bob,22,16,0.12,Gujarat
+43296,White Board,Laura,4,40,0.1,Maharashtra
+43296,Office Chair,Stacey,2,230,0.09,Gujarat
+43296,White Board,John,22,40,0.02,Maharashtra
+43296,White Board,Mark,4,40,0.03,Gujarat
+43296,Diary,Mark,5,16,0.11,Maharashtra
+43296,Printer,Stacey,2,80,0.08,Gujarat
+43296,Diary,Laura,9,16,0.05,Maharashtra
+43296,Office Chair,Laura,6,230,0.05,Gujarat
+43296,Projector,Stacey,22,150,0.05,Maharashtra
+43297,Office Chair,Stacey,8,230,0.01,Gujarat
+43297,Projector,John,22,150,0.05,Maharashtra
+43297,White Board,John,5,40,0.06,Gujarat
+43297,Projector,Stacey,20,150,0.1,Maharashtra
+43297,Printer,Stacey,22,80,0.03,Gujarat
+43297,Diary,John,11,16,0.09,Maharashtra
+43297,Diary,Mark,22,16,0.01,Gujarat
+43297,White Board,Mark,23,40,0.06,Maharashtra
+43297,Printer,Laura,14,80,0.1,Gujarat
+43297,White Board,John,18,40,0.06,Maharashtra
+43298,Projector,Stacey,7,150,0.05,Uttar Pradesh
+43298,White Board,Stacey,15,40,0.03,Maharashtra
+43298,Diary,John,7,16,0.02,Delhi
+43298,Diary,Stacey,15,16,0.12,West Bengal
+43298,White Board,John,5,40,0.09,Bihar
+43298,White Board,Bob,20,40,0.03,Goa
+43298,Office Chair,Stacey,11,230,0.12,Karnataka
+43298,Diary,Bob,17,16,0.08,Gujarat
+43299,Diary,John,18,16,0.11,Jharkhand
+43299,Office Chair,Stacey,2,230,0.08,Haryana
+43299,Diary,Laura,17,16,0.05,Kerala
+43299,Printer,Stacey,16,80,0.05,Meghalaya
+43299,Office Chair,Mark,14,230,0.05,Uttar Pradesh
+43299,White Board,Laura,13,40,0.02,Maharashtra
+43299,Office Chair,Mark,7,230,0.08,Delhi
+43299,White Board,Stacey,7,40,0.11,West Bengal
+43299,Office Chair,Laura,12,230,0.06,Bihar
+43299,White Board,John,19,40,0.04,Uttar Pradesh
+43300,Office Chair,Laura,20,230,0.06,Maharashtra
+43300,White Board,Bob,23,40,0.04,Delhi
+43300,Printer,Bob,16,80,0.05,West Bengal
+43300,Projector,Mark,23,150,0.11,Bihar
+43300,Diary,Mark,4,16,0.07,Goa
+43300,Office Chair,John,8,230,0.03,Karnataka
+43300,Printer,Mark,17,80,0.03,Gujarat
+43300,Printer,Stacey,10,80,0.1,Jharkhand
+43300,Diary,John,20,16,0.11,Haryana
+43301,Office Chair,Stacey,19,230,0.06,Kerala
+43301,White Board,Laura,18,40,0.03,Meghalaya
+43301,Printer,Mark,16,80,0.04,Uttar Pradesh
+43301,Printer,Stacey,8,80,0.06,Maharashtra
+43301,Projector,Stacey,4,150,0.12,Delhi
+43301,Office Chair,Laura,15,230,0.04,West Bengal
+43302,Diary,Mark,7,16,0.08,Bihar
+43302,White Board,John,18,40,0.11,Uttar Pradesh
+43302,White Board,Laura,4,40,0.06,Maharashtra
+43302,White Board,Bob,16,40,0.09,Delhi
+43302,White Board,Mark,18,40,0.08,West Bengal
+43302,White Board,John,9,40,0.01,Bihar
+43302,Office Chair,Stacey,16,230,0.11,Goa
+43302,Diary,Laura,12,16,0.11,Karnataka
+43302,Printer,Mark,2,80,0.07,Gujarat
+43302,White Board,John,2,40,0.12,Jharkhand
+43303,Projector,John,13,150,0.05,Haryana
+43303,Printer,John,14,80,0.08,Kerala
+43303,Projector,Stacey,6,150,0.03,Meghalaya
+43303,Printer,Stacey,23,80,0.11,Uttar Pradesh
+43303,Printer,Stacey,21,80,0.05,Maharashtra
+43303,Diary,Laura,3,16,0.05,Delhi
+43303,Diary,Mark,21,16,0.02,West Bengal
+43303,Printer,Stacey,4,80,0.11,Bihar
+43303,Projector,Bob,23,150,0.08,Uttar Pradesh
+43303,Diary,Bob,23,16,0.01,Maharashtra
+43303,White Board,Stacey,22,40,0.01,Delhi
+43304,Projector,John,8,150,0.09,West Bengal
+43304,Projector,John,20,150,0.01,Bihar
+43304,Office Chair,Mark,22,230,0.11,Goa
+43304,Diary,Laura,23,16,0.11,Karnataka
+43304,Printer,John,6,80,0.01,Gujarat
+43304,Diary,John,7,16,0.12,Jharkhand
+43304,Printer,Mark,10,80,0.11,Haryana
+43304,Office Chair,John,9,230,0.07,Kerala
+43305,White Board,Mark,12,40,0.1,Meghalaya
+43305,Diary,Bob,17,16,0.1,Uttar Pradesh
+43305,Projector,Laura,22,150,0.04,Maharashtra
+43305,Projector,Laura,11,150,0.05,Delhi
+43305,Printer,Bob,9,80,0.02,West Bengal
+43305,Printer,Bob,13,80,0.05,Bihar
+43305,White Board,Bob,20,40,0.1,Uttar Pradesh
+43305,White Board,Mark,15,40,0.02,Maharashtra
+43306,Projector,Bob,15,150,0.07,Delhi
+43306,Printer,Bob,16,80,0.09,West Bengal
+43306,Office Chair,John,16,230,0.07,Bihar
+43306,Printer,Mark,14,80,0.11,Goa
+43306,Printer,Bob,17,80,0.07,Karnataka
+43306,Printer,Laura,16,80,0.02,Gujarat
+43306,Diary,John,21,16,0.09,Jharkhand
+43306,Projector,John,9,150,0.1,Haryana
+43306,Projector,Stacey,3,150,0.01,Kerala
+43307,Printer,Mark,14,80,0.06,Meghalaya
+43307,Projector,Bob,4,150,0.05,Uttar Pradesh
+43307,Diary,Mark,20,16,0.06,Maharashtra
+43307,Office Chair,Laura,7,230,0.01,Delhi
+43307,Printer,Mark,9,80,0.03,West Bengal
+43307,White Board,Stacey,4,40,0.05,Bihar
+43307,Printer,John,6,80,0.07,Uttar Pradesh
+43307,Diary,Laura,8,16,0.03,Maharashtra
+43307,Diary,John,10,16,0.08,Delhi
+43307,Diary,Stacey,22,16,0.03,West Bengal
+43307,Printer,Stacey,11,80,0.01,Bihar
+43307,Diary,Stacey,7,16,0.08,Goa
+43308,Diary,Laura,11,16,0.12,Karnataka
+43308,White Board,Bob,7,40,0.05,Gujarat
+43308,Projector,Laura,9,150,0.06,Jharkhand
+43308,Office Chair,John,20,230,0.04,Haryana
+43308,Projector,Laura,9,150,0.02,Kerala
+43308,Printer,Mark,5,80,0.07,Meghalaya
+43308,Projector,Laura,20,150,0.04,Uttar Pradesh
+43308,Projector,Stacey,15,150,0.05,Maharashtra
+43308,Printer,John,20,80,0.01,Delhi
+43309,Office Chair,Mark,12,230,0.03,West Bengal
+43309,White Board,Bob,20,40,0.05,Bihar
+43309,White Board,Bob,4,40,0.09,Uttar Pradesh
+43309,Diary,Laura,6,16,0.07,Maharashtra
+43309,Printer,Mark,13,80,0.06,Delhi
+43309,Projector,John,4,150,0.1,West Bengal
+43309,Projector,Stacey,9,150,0.02,Bihar
+43309,Projector,John,11,150,0.05,Goa
+43309,Diary,Laura,6,16,0.06,Karnataka
+43310,Office Chair,Laura,14,230,0.12,Gujarat
+43310,Printer,Mark,15,80,0.12,Jharkhand
+43310,Office Chair,Stacey,17,230,0.12,Haryana
+43310,Projector,John,5,150,0.11,Kerala
+43310,Printer,Bob,10,80,0.06,Meghalaya
+43310,Printer,John,9,80,0.04,Uttar Pradesh
+43310,White Board,Bob,16,40,0.09,Maharashtra
+43310,Office Chair,John,7,230,0.08,Delhi
+43310,Printer,Stacey,17,80,0.05,West Bengal
+43310,Office Chair,John,11,230,0.02,Bihar
+43311,White Board,John,15,40,0.06,Uttar Pradesh
+43312,Office Chair,John,7,230,0.02,Maharashtra
+43312,Printer,Laura,20,80,0.07,Delhi
+43312,Printer,Mark,3,80,0.02,West Bengal
+43312,Projector,Laura,2,150,0.02,Bihar
+43312,Projector,Laura,22,150,0.09,Goa
+43312,Office Chair,John,5,230,0.1,Karnataka
+43312,Diary,Bob,12,16,0.04,Gujarat
+43312,White Board,Stacey,6,40,0.07,Jharkhand
+43312,Diary,Bob,15,16,0.01,Haryana
+43282,Projector,Bob,13,150,0.11,Kerala
+43282,White Board,Mark,8,40,0.09,Meghalaya
+43282,White Board,Stacey,7,40,0.07,Uttar Pradesh
+43282,White Board,Mark,18,40,0.08,Maharashtra
+43282,Office Chair,Stacey,19,230,0.06,Delhi
+43282,Projector,John,4,150,0.1,West Bengal
+43283,Printer,Bob,9,80,0.06,Bihar
+43283,Printer,Laura,16,80,0.02,Uttar Pradesh
+43283,Office Chair,Mark,15,230,0.09,Maharashtra
+43283,Diary,Bob,15,16,0.01,Delhi
+43283,Office Chair,John,7,230,0.02,West Bengal
+43283,Diary,Laura,23,16,0.11,Bihar
+43283,White Board,Bob,20,40,0.05,Goa
+43284,Office Chair,Mark,9,230,0.03,Karnataka
+43284,White Board,Stacey,23,40,0.06,Gujarat
+43284,White Board,Stacey,4,40,0.05,Jharkhand
+43284,Projector,John,13,150,0.05,Haryana
+43284,Office Chair,Mark,7,230,0.01,Kerala
+43284,Office Chair,Mark,7,230,0.08,Meghalaya
+43284,Office Chair,Laura,15,230,0.04,Uttar Pradesh
+43284,White Board,Stacey,15,40,0.03,Maharashtra
+43284,White Board,Laura,2,40,0.03,Delhi
+43284,Projector,Laura,2,150,0.02,West Bengal
+43285,Office Chair,John,3,230,0.11,Bihar
+43285,White Board,Laura,4,40,0.06,Uttar Pradesh
+43285,White Board,Stacey,13,40,0.06,Maharashtra
+43285,Diary,Stacey,15,16,0.12,Delhi
+43285,Printer,John,14,80,0.08,West Bengal
+43285,Diary,John,7,16,0.08,Bihar
+43285,Projector,Mark,13,150,0.02,Goa
+43285,Projector,Laura,9,150,0.02,Karnataka
+43285,White Board,John,9,40,0.01,Gujarat
+43286,Printer,Bob,9,80,0.07,Jharkhand
+43286,Office Chair,Mark,22,230,0.11,Haryana
+43286,Projector,Mark,15,150,0.02,Kerala
+43286,Office Chair,Bob,5,230,0.12,Meghalaya
+43286,White Board,Laura,20,40,0.01,Uttar Pradesh
+43286,White Board,John,23,40,0.03,Maharashtra
+43286,Printer,Bob,16,80,0.05,Delhi
+43286,Office Chair,Laura,18,230,0.01,West Bengal
+43286,White Board,Bob,23,40,0.05,Bihar
+43286,Diary,Stacey,5,16,0.09,Uttar Pradesh
+43286,White Board,John,22,40,0.02,Maharashtra
+43287,Projector,John,23,150,0.1,Delhi
+43287,Office Chair,Mark,22,230,0.04,West Bengal
+43287,Printer,Stacey,16,80,0.07,Bihar
+43287,Projector,Laura,22,150,0.09,Goa
+43287,Printer,Laura,5,80,0.09,Karnataka
+43287,Printer,Stacey,16,80,0.1,Gujarat
+43287,Projector,Mark,23,150,0.11,Jharkhand
+43287,Diary,Mark,4,16,0.09,Haryana
+43287,Diary,Mark,4,16,0.07,Kerala
+43287,Diary,John,16,16,0.03,Meghalaya
+43287,White Board,Stacey,18,40,0.04,Uttar Pradesh
+43287,Printer,Stacey,21,80,0.02,Maharashtra
+43287,Printer,Bob,10,80,0.06,Delhi
+43287,Office Chair,Laura,7,230,0.01,West Bengal
+43288,Diary,Bob,11,16,0.12,Bihar
+43288,Printer,Stacey,10,80,0.1,Uttar Pradesh
+43288,White Board,Mark,23,40,0.06,Maharashtra
+43288,Projector,Bob,7,150,0.02,Delhi
+43288,Printer,John,17,80,0.07,West Bengal
+43288,Projector,Mark,20,150,0.09,Bihar
+43288,Office Chair,Stacey,23,230,0.06,Goa
+43288,Printer,Mark,16,80,0.04,Karnataka
+43288,Office Chair,Bob,22,230,0.1,Gujarat
+43288,Office Chair,Laura,15,230,0.11,Jharkhand
+43288,White Board,Mark,15,40,0.04,Haryana
+43288,Printer,Mark,2,80,0.07,Kerala
+43289,Projector,John,22,150,0.05,Meghalaya
+43289,White Board,Bob,20,40,0.07,Uttar Pradesh
+43289,Office Chair,Stacey,2,230,0.09,Maharashtra
+43289,White Board,Stacey,7,40,0.11,Delhi
+43289,Printer,Stacey,7,80,0.07,West Bengal
+43289,White Board,Stacey,9,40,0.06,Bihar
+43289,White Board,John,18,40,0.11,Uttar Pradesh
+43289,Office Chair,John,20,230,0.04,Maharashtra
+43289,Printer,Laura,23,80,0.05,Delhi
+43289,Projector,Bob,11,150,0.09,West Bengal
+43289,Projector,John,17,150,0.12,Bihar
+43289,Office Chair,Bob,2,230,0.08,Goa
+43289,Printer,Laura,10,80,0.11,Karnataka
+43290,Diary,Stacey,22,16,0.03,Gujarat
+43290,Diary,Laura,9,16,0.05,Jharkhand
+43290,White Board,Laura,4,40,0.1,Haryana
+43290,Printer,Bob,9,80,0.02,Kerala
+43290,Office Chair,Laura,6,230,0.05,Meghalaya
+43290,Printer,Stacey,14,80,0.05,Uttar Pradesh
+43290,Diary,Bob,17,16,0.08,Maharashtra
+43290,Projector,Mark,22,150,0.02,Delhi
+43290,White Board,Bob,17,40,0.02,West Bengal
+43290,Printer,Bob,17,80,0.07,Bihar
+43290,Projector,Stacey,4,150,0.12,Uttar Pradesh
+43290,Diary,Stacey,14,16,0.12,Maharashtra
+43290,Diary,John,18,16,0.11,Delhi
+43290,Printer,Bob,22,80,0.09,West Bengal
+43290,Office Chair,Mark,12,230,0.03,Bihar
+43290,White Board,Mark,12,40,0.1,Goa
+43291,White Board,Bob,7,40,0.12,Karnataka
+43291,Printer,John,12,80,0.04,Gujarat
+43291,Diary,Bob,17,16,0.1,Jharkhand
+43291,Office Chair,Mark,6,230,0.1,Haryana
+43291,White Board,John,11,40,0.04,Kerala
+43291,Diary,Stacey,10,16,0.04,Meghalaya
+43291,Printer,John,6,80,0.07,Uttar Pradesh
+43291,White Board,Stacey,11,40,0.09,Maharashtra
+43291,Printer,Bob,16,80,0.09,Delhi
+43291,White Board,Stacey,13,40,0.09,West Bengal
+43291,Office Chair,John,5,230,0.1,Bihar
+43292,White Board,Bob,7,40,0.05,Uttar Pradesh
+43292,Printer,Laura,14,80,0.1,Maharashtra
+43292,Diary,Bob,12,16,0.04,Delhi
+43292,Office Chair,Laura,14,230,0.03,West Bengal
+43292,Printer,Bob,21,80,0.09,Bihar
+43292,Office Chair,Laura,5,230,0.1,Goa
+43292,White Board,Bob,16,40,0.09,Karnataka
+43292,Projector,Mark,15,150,0.12,Gujarat
+43292,Diary,Bob,23,16,0.01,Jharkhand
+43292,Diary,Mark,22,16,0.04,Haryana
+43292,Printer,John,20,80,0.01,Kerala
+43292,White Board,Stacey,6,40,0.07,Meghalaya
+43293,Projector,Mark,10,150,0.01,Uttar Pradesh
+43293,Printer,Stacey,17,80,0.05,Maharashtra
+43293,Projector,John,13,150,0.05,Delhi
+43293,Office Chair,Stacey,8,230,0.05,West Bengal
+43293,Diary,John,10,16,0.08,Bihar
+43293,White Board,Mark,4,40,0.06,Uttar Pradesh
+43293,White Board,Bob,18,40,0.06,Maharashtra
+43293,Projector,Stacey,15,150,0.05,Delhi
+43293,Projector,Stacey,3,150,0.01,West Bengal
+43293,Diary,John,12,16,0.11,Bihar
+43294,Printer,Bob,17,80,0.07,Goa
+43294,Office Chair,John,3,230,0.06,Karnataka
+43294,Printer,Laura,20,80,0.07,Gujarat
+43294,Office Chair,Mark,14,230,0.05,Jharkhand
+43294,White Board,Bob,16,40,0.09,Haryana
+43294,Diary,Mark,7,16,0.08,Kerala
+43294,White Board,Mark,19,40,0.1,Meghalaya
+43294,Office Chair,Stacey,7,230,0.06,Uttar Pradesh
+43294,White Board,Bob,20,40,0.03,Maharashtra
+43294,Diary,Laura,11,16,0.12,Delhi
+43294,Printer,Bob,16,80,0.09,West Bengal
+43294,Diary,John,21,16,0.09,Bihar
+43294,Diary,John,22,16,0.01,Uttar Pradesh
+43294,Office Chair,Stacey,23,230,0.06,Maharashtra
+43294,Projector,John,9,150,0.1,Delhi
+43294,Projector,Laura,9,150,0.06,West Bengal
+43295,Office Chair,John,9,230,0.07,Bihar
+43295,Printer,Laura,10,80,0.08,Goa
+43295,Diary,Laura,23,16,0.11,Karnataka
+43295,Printer,Stacey,22,80,0.03,Gujarat
+43295,Printer,Stacey,4,80,0.11,Jharkhand
+43295,Diary,John,22,16,0.06,Haryana
+43295,White Board,Mark,15,40,0.02,Kerala
+43295,White Board,Bob,7,40,0.04,Meghalaya
+43295,Diary,Bob,2,16,0.04,Uttar Pradesh
+43295,Printer,Stacey,7,80,0.02,Maharashtra
+43296,Diary,Bob,22,16,0.12,Delhi
+43296,White Board,Mark,21,40,0.03,West Bengal
+43296,Printer,John,6,80,0.01,Bihar
+43296,Printer,Bob,13,80,0.05,Uttar Pradesh
+43296,Printer,Stacey,11,80,0.01,Maharashtra
+43296,White Board,John,18,40,0.06,Delhi
+43296,Projector,Stacey,7,150,0.05,West Bengal
+43296,White Board,John,2,40,0.12,Bihar
+43296,Printer,Mark,14,80,0.06,Goa
+43296,Projector,Bob,7,150,0.03,Karnataka
+43296,Diary,Stacey,10,16,0.01,Gujarat
+43297,White Board,Mark,7,40,0.01,Jharkhand
+43297,Diary,Stacey,7,16,0.08,Haryana
+43297,Projector,Laura,15,150,0.05,Kerala
+43297,Printer,John,7,80,0.02,Meghalaya
+43297,White Board,Laura,6,40,0.06,Uttar Pradesh
+43297,Office Chair,John,3,230,0.06,Maharashtra
+43297,Projector,Laura,20,150,0.04,Delhi
+43297,Office Chair,Laura,20,230,0.06,West Bengal
+43297,Diary,Laura,14,16,0.01,Bihar
+43297,Projector,Laura,20,150,0.04,Uttar Pradesh
+43297,Printer,John,17,80,0.09,Maharashtra
+43298,Projector,Laura,20,150,0.12,Delhi
+43298,Diary,Laura,11,16,0.04,West Bengal
+43298,Office Chair,Bob,7,230,0.05,Bihar
+43298,White Board,Mark,14,40,0.06,Goa
+43298,Printer,Mark,13,80,0.06,Karnataka
+43298,Diary,Laura,17,16,0.05,Gujarat
+43298,Office Chair,Laura,12,230,0.03,Jharkhand
+43298,White Board,Mark,4,40,0.12,Haryana
+43298,Diary,John,20,16,0.01,Kerala
+43298,Printer,Stacey,8,80,0.06,Meghalaya
+43298,Printer,John,18,80,0.02,Uttar Pradesh
+43298,Diary,Laura,6,16,0.06,Maharashtra
+43298,Printer,John,9,80,0.04,Delhi
+43299,Printer,Laura,8,80,0.02,West Bengal
+43299,Projector,Stacey,6,150,0.03,Bihar
+43299,Diary,Stacey,14,16,0.12,Uttar Pradesh
+43299,Printer,Laura,6,80,0.09,Maharashtra
+43299,White Board,Bob,23,40,0.04,Delhi
+43299,White Board,Laura,12,40,0.02,West Bengal
+43299,White Board,Stacey,22,40,0.01,Bihar
+43299,Projector,Stacey,6,150,0.03,Goa
+43299,Diary,Bob,19,16,0.02,Karnataka
+43299,White Board,Laura,2,40,0.02,Gujarat
+43300,White Board,Stacey,22,40,0.01,Jharkhand
+43300,Office Chair,Stacey,3,230,0.01,Haryana
+43300,White Board,Stacey,23,40,0.06,Kerala
+43300,White Board,Bob,5,40,0.03,Meghalaya
+43300,Printer,John,8,80,0.08,Uttar Pradesh
+43300,White Board,Laura,18,40,0.03,Maharashtra
+43300,White Board,Bob,20,40,0.1,Delhi
+43300,White Board,Laura,2,40,0.03,West Bengal
+43300,Office Chair,John,15,230,0.05,Bihar
+43300,Projector,Stacey,15,150,0.08,Uttar Pradesh
+43300,Projector,Stacey,22,150,0.05,Maharashtra
+43300,Office Chair,Mark,19,230,0.11,Delhi
+43300,Printer,Mark,10,80,0.11,West Bengal
+43300,White Board,Stacey,18,40,0.06,Bihar
+43300,Printer,Stacey,16,80,0.05,Goa
+43300,Projector,Bob,17,150,0.02,Karnataka
+43301,Office Chair,John,8,230,0.03,Gujarat
+43301,Printer,Stacey,11,80,0.01,Jharkhand
+43301,White Board,John,5,40,0.06,Haryana
+43301,White Board,Bob,11,40,0.05,Kerala
+43301,Projector,Stacey,20,150,0.1,Meghalaya
+43301,Projector,Laura,11,150,0.11,Uttar Pradesh
+43301,Printer,Stacey,2,80,0.08,Maharashtra
+43301,Projector,Mark,16,150,0.08,Delhi
+43301,Diary,John,20,16,0.11,West Bengal
+43301,Office Chair,Laura,2,230,0.09,Bihar
+43301,Projector,John,20,150,0.04,Uttar Pradesh
+43301,Projector,John,22,150,0.07,Maharashtra
+43301,Projector,Laura,22,150,0.04,Delhi
+43301,White Board,John,23,40,0.07,West Bengal
+43302,Diary,Laura,11,16,0.04,Bihar
+43302,Office Chair,Mark,11,230,0.1,Goa
+43302,Office Chair,John,7,230,0.08,Karnataka
+43302,Projector,Mark,13,150,0.08,Gujarat
+43302,Office Chair,Stacey,16,230,0.11,Jharkhand
+43302,Office Chair,Bob,20,230,0.09,Haryana
+43302,White Board,Laura,20,40,0.01,Kerala
+43302,Printer,John,20,80,0.01,Meghalaya
+43302,Projector,John,5,150,0.11,Uttar Pradesh
+43303,White Board,Laura,4,40,0.11,Maharashtra
+43303,Diary,John,7,16,0.12,Delhi
+43303,Diary,Mark,22,16,0.01,West Bengal
+43303,White Board,Stacey,15,40,0.03,Bihar
+43303,Printer,Mark,14,80,0.11,Uttar Pradesh
+43303,Diary,Mark,15,16,0.02,Maharashtra
+43304,Printer,Stacey,19,80,0.02,Delhi
+43304,White Board,Bob,20,40,0.05,West Bengal
+43304,White Board,Stacey,11,40,0.06,Bihar
+43304,Projector,Laura,11,150,0.05,Goa
+43304,Printer,Stacey,23,80,0.11,Karnataka
+43304,Printer,John,8,80,0.09,Gujarat
+43304,White Board,Stacey,9,40,0.06,Jharkhand
+43304,Office Chair,Bob,13,230,0.06,Haryana
+43304,White Board,Stacey,22,40,0.01,Kerala
+43304,Diary,Bob,14,16,0.06,Meghalaya
+43305,Printer,Mark,5,80,0.04,Uttar Pradesh
+43305,Projector,Bob,18,150,0.12,Maharashtra
+43305,Office Chair,Laura,14,230,0.12,Delhi
+43305,Office Chair,Bob,20,230,0.11,West Bengal
+43305,Diary,Bob,3,16,0.03,Bihar
+43305,Office Chair,Laura,20,230,0.06,Uttar Pradesh
+43305,Printer,Bob,9,80,0.02,Maharashtra
+43305,Diary,Stacey,22,16,0.03,Delhi
+43305,Printer,Mark,15,80,0.12,West Bengal
+43305,Projector,John,11,150,0.05,Bihar
+43305,Office Chair,Stacey,11,230,0.12,Goa
+43305,Projector,John,20,150,0.01,Karnataka
+43305,White Board,Laura,11,40,0.12,Gujarat
+43306,Office Chair,Laura,12,230,0.06,Jharkhand
+43306,White Board,John,15,40,0.06,Haryana
+43306,White Board,Stacey,13,40,0.09,Kerala
+43306,White Board,Bob,4,40,0.09,Meghalaya
+43306,Office Chair,Stacey,18,230,0.01,Uttar Pradesh
+43306,Diary,John,7,16,0.02,Maharashtra
+43306,Diary,Laura,6,16,0.07,Delhi
+43306,Office Chair,Stacey,8,230,0.05,West Bengal
+43306,Diary,Laura,12,16,0.11,Bihar
+43306,Office Chair,John,11,230,0.02,Uttar Pradesh
+43306,Diary,Laura,3,16,0.05,Maharashtra
+43307,Projector,Mark,16,150,0.05,Delhi
+43307,Office Chair,Stacey,8,230,0.01,West Bengal
+43307,Printer,Laura,16,80,0.04,Bihar
+43307,Diary,Stacey,18,16,0.04,Goa
+43307,White Board,Bob,14,40,0.11,Karnataka
+43307,Diary,Mark,21,16,0.02,Gujarat
+43307,Diary,Mark,7,16,0.08,Jharkhand
+43307,Printer,Laura,7,80,0.05,Haryana
+43307,White Board,Bob,16,40,0.09,Kerala
+43307,Office Chair,Bob,22,230,0.1,Meghalaya
+43307,White Board,Mark,4,40,0.03,Uttar Pradesh
+43307,Office Chair,Bob,3,230,0.1,Maharashtra
+43307,Printer,Mark,14,80,0.11,Delhi
+43308,White Board,Bob,21,40,0.01,West Bengal
+43308,Diary,Mark,20,16,0.06,Bihar
+43308,Printer,Bob,22,80,0.11,Uttar Pradesh
+43308,White Board,John,7,40,0.1,Maharashtra
+43308,Projector,Mark,16,150,0.05,Delhi
+43308,Office Chair,Mark,7,230,0.05,West Bengal
+43308,Projector,John,20,150,0.03,Bihar
+43308,Projector,Mark,16,150,0.03,Goa
+43308,Diary,Stacey,10,16,0.04,Karnataka
+43308,Printer,Bob,6,80,0.09,Gujarat
+43308,Printer,John,17,80,0.09,Jharkhand
+43308,White Board,John,19,40,0.04,Haryana
+43308,White Board,Bob,16,40,0.09,Kerala
+43308,Diary,John,4,16,0.12,Meghalaya
+43308,Projector,Stacey,9,150,0.02,Uttar Pradesh
+43308,Diary,John,11,16,0.09,Maharashtra
+43308,Printer,Mark,17,80,0.03,Delhi
+43309,Projector,John,3,150,0.03,West Bengal
+43309,Office Chair,Stacey,2,230,0.08,Bihar
+43309,Office Chair,Stacey,17,230,0.12,Uttar Pradesh
+43309,Projector,Mark,2,150,0.09,Maharashtra
+43309,White Board,Stacey,18,40,0.06,Delhi
+43309,Projector,Laura,18,150,0.06,West Bengal
+43309,White Board,Mark,12,40,0.1,Bihar
+43309,Printer,John,21,80,0.04,Goa
+43309,White Board,Bob,3,40,0.03,Karnataka
+43309,Printer,Bob,22,80,0.1,Gujarat
+43309,White Board,Bob,16,40,0.11,Jharkhand
+43309,Diary,John,11,16,0.09,Haryana
+43310,Printer,Laura,10,80,0.08,Kerala
+43310,Diary,Laura,12,16,0.03,Meghalaya
+43310,Projector,John,8,150,0.09,Uttar Pradesh
+43310,White Board,Bob,10,40,0.03,Maharashtra
+43310,Projector,John,7,150,0.02,Delhi
+43310,Diary,Laura,6,16,0.01,West Bengal
+43310,Printer,Stacey,15,80,0.08,Bihar
+43310,Diary,Bob,13,16,0.07,Uttar Pradesh
+43310,Office Chair,Stacey,19,230,0.06,Maharashtra
+43310,Printer,Stacey,21,80,0.05,Delhi
+43310,Printer,Mark,5,80,0.07,West Bengal
+43310,Diary,Laura,8,16,0.03,Bihar
+43310,Diary,Laura,12,16,0.11,Goa
+43310,Printer,Stacey,22,80,0.03,Karnataka
+43310,White Board,John,5,40,0.09,Gujarat
+43311,Projector,Mark,23,150,0.11,Jharkhand
+43311,Printer,John,16,80,0.03,Haryana
+43311,Projector,Bob,15,150,0.07,Kerala
+43311,White Board,John,20,40,0.04,Meghalaya
+43311,Office Chair,Laura,10,230,0.02,Uttar Pradesh
+43311,Printer,Mark,9,80,0.03,Maharashtra
+43311,Office Chair,John,16,230,0.07,Delhi
+43311,Printer,Mark,21,80,0.04,West Bengal
+43311,Printer,Mark,9,80,0.03,Bihar
+43311,White Board,Mark,4,40,0.12,Uttar Pradesh
+43311,Office Chair,Laura,5,230,0.01,Maharashtra
+43311,Diary,John,18,16,0.05,Delhi
+43312,Printer,Laura,6,80,0.01,West Bengal
+43312,Projector,Bob,4,150,0.05,Bihar
+43312,Office Chair,Bob,21,230,0.05,Goa
+43312,Projector,John,4,150,0.06,Karnataka
+43312,Printer,Mark,2,80,0.04,Gujarat
+43312,Diary,Mark,5,16,0.11,Jharkhand
+43312,Projector,Bob,23,150,0.08,Haryana
+43312,Printer,Mark,3,80,0.02,Kerala
+43312,Office Chair,Bob,17,230,0.11,Meghalaya
+43312,White Board,Laura,11,40,0.05,Uttar Pradesh
+43312,Office Chair,John,7,230,0.02,Maharashtra
+43312,White Board,Laura,13,40,0.02,Delhi
