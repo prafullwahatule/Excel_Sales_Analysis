@@ -14,7 +14,6 @@ Sales_Analysis/
 ```
 
 ## 🛠️ Steps Performed
----
 🔹 Data Preparation (Power Query)
 - Loaded raw dataset into Excel
 
@@ -33,7 +32,6 @@ Sales_Analysis/
 - Total Sales = Quantity × Price
   Earned Commission = Total Sales × Commission
   
----
 
 ## 🔹 KPI Calculations
 
@@ -66,7 +64,7 @@ Sales_Analysis/
 
 
 ## 📈 Dashboard Features
----
+
 - Clean & professional UI design with slicers and charts
 - KPIs at a glance (cards for Total Sales, Avg Sales, etc.)
 - Time-series trend chart for daily/monthly analysis
@@ -74,7 +72,7 @@ Sales_Analysis/
 - Bar & Pie charts for Sales Rep, Item, and Commission
 - Top vs Bottom analysis with conditional formatting
 - Insights box with key findings
----
+
 
 ## 🖼️ Dashboard Preview
 <img width="1920" height="1080" alt="Screenshot 2025-10-09 234124" src="https://github.com/user-attachments/assets/39e6565f-19d0-4417-9d1b-31286bcab138" />
@@ -90,7 +88,7 @@ git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 2. Interact with slicers and charts to explore insights
 
 ## 🎯 Key Insights (Sample)
----
+
 - Total Sales: ₹15,84,466
 
 - Top Sales Rep: Stacey
@@ -100,10 +98,10 @@ git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 - Most Selling Item: White Board
 
 - Highest Commission Efficiency: Bob (7.69%)
----
+
 
 ## 🛠️ Tools Used
----
+
 - Microsoft Excel → Power Query, Pivot Tables, Charts
 
 - Conditional Formatting → Top/Bottom highlighting
@@ -112,15 +110,17 @@ git clone https://github.com/prafullwahatule/Excel_Sales_Analysis.git
 ---
 
 ## 📌 Future Improvements
----
+
 1. Automate dashboard refresh with macros
 
 2. Connect to a live database (SQL/Power BI)
 
 3. Add forecasting models
----
+
 
 ## 👤 Author
-Prafull Wahatule
-📧 prafullwahatule@gmail.com
-🔗 https://github.com/prafullwahatule
+
+- **Name:** Prafull Wahatule
+- **Email:** prafullwahatule@gmail.com
+- **GitHub:** [Profile](https://github.com/prafullwahatule)
+
