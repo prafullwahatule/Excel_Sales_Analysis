@@ -53,37 +53,28 @@ Sales_Analysis/
 
 ## 🔹 Pivot Table Analysis
 
-Sales by Item → Compare sales & quantity per item
+| Analysis Type                  | Description                                |
+|--------------------------------|--------------------------------------------|
+| Sales by Item                  | Compare sales & quantity per item          |
+| Sales by Sales Rep             | Performance by representative             |
+| Sales by State                 | Regional sales distribution                |
+| Sales Trend by Date            | Monthly/Yearly trend analysis              |
+| Commission Analysis            | Who earns the most commission              |
+| Quantity by Item & State       | Cross-analysis for demand                  |
+| Top vs Bottom Performers       | Highlights best & worst                     |
+| Commission Efficiency          | Efficiency % across sales reps             |
 
-Sales by Sales Rep → Performance by representative
-
-Sales by State → Regional sales distribution
-
-Sales Trend by Date → Monthly/Yearly trend analysis
-
-Commission Analysis → Who earns the most commission
-
-Quantity by Item & State → Cross-analysis for demand
-
-Top vs Bottom Performers → Highlights best & worst
-
-Commission Efficiency → Efficiency % across sales reps
 
 ## 📈 Dashboard Features
 
-Clean & professional UI design with slicers and charts
+- Clean & professional UI design with slicers and charts
+- KPIs at a glance (cards for Total Sales, Avg Sales, etc.)
+- Time-series trend chart for daily/monthly analysis
+- Geographical map chart for state-wise performance
+- Bar & Pie charts for Sales Rep, Item, and Commission
+- Top vs Bottom analysis with conditional formatting
+- Insights box with key findings
 
-KPIs at a glance (cards for Total Sales, Avg Sales, etc.)
-
-Time-series trend chart for daily/monthly analysis
-
-Geographical map chart for state-wise performance
-
-Bar & Pie charts for Sales Rep, Item, and Commission
-
-Top vs Bottom analysis with conditional formatting
-
-Insights box with key findings
 
 ## 🖼️ Dashboard Preview
 
