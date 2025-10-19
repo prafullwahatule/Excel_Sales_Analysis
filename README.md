@@ -1,4 +1,4 @@
- # 📊 Excel Sales Analysis
+# 📊 Excel Sales Analysis
 
 An interactive Excel Sales Dashboard project built to analyze 10,000+ sales transactions.
 This project demonstrates data cleaning, transformation, KPI calculation, pivot tables, and dashboard visualization using Microsoft Excel.
