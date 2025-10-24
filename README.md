@@ -6,8 +6,8 @@ This project demonstrates data cleaning, transformation, KPI calculation, pivot 
 ## 📂 Project Structure
 ```
 Sales_Analysis/
- ├─ 1_Raw_Data/        # Original dataset
- ├─ 2_Cleaned_Data/    # Processed & cleaned dataset
+ ├─ 1_Raw_Data/ 
+ ├─ 2_Cleaned_Data/
  ├─ 3_Analysis/        # KPI calculations & Pivot Tables
  ├─ 4_Visuals/         # Dashboard charts & visuals
  └─ 5_Reports/         # Final report & export files
